@@ -20,7 +20,7 @@
   "dependencies": {
     "all-contributors-cli": "^6.20.0",
     "compromise": "^11.14.3",
-    "probot": "^12.1.1"
+    "probot": "^12.2.5"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
